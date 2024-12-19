@@ -1,0 +1,14 @@
+C:\Users\SuperElectro\source\repos\TP2\TP2\bin\Debug\net8.0\TP2.exe
+C:\Users\SuperElectro\source\repos\TP2\TP2\bin\Debug\net8.0\TP2.deps.json
+C:\Users\SuperElectro\source\repos\TP2\TP2\bin\Debug\net8.0\TP2.runtimeconfig.json
+C:\Users\SuperElectro\source\repos\TP2\TP2\bin\Debug\net8.0\TP2.dll
+C:\Users\SuperElectro\source\repos\TP2\TP2\bin\Debug\net8.0\TP2.pdb
+C:\Users\SuperElectro\source\repos\TP2\TP2\obj\Debug\net8.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperElectro\source\repos\TP2\TP2\obj\Debug\net8.0\TP2.AssemblyInfoInputs.cache
+C:\Users\SuperElectro\source\repos\TP2\TP2\obj\Debug\net8.0\TP2.AssemblyInfo.cs
+C:\Users\SuperElectro\source\repos\TP2\TP2\obj\Debug\net8.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\SuperElectro\source\repos\TP2\TP2\obj\Debug\net8.0\TP2.dll
+C:\Users\SuperElectro\source\repos\TP2\TP2\obj\Debug\net8.0\refint\TP2.dll
+C:\Users\SuperElectro\source\repos\TP2\TP2\obj\Debug\net8.0\TP2.pdb
+C:\Users\SuperElectro\source\repos\TP2\TP2\obj\Debug\net8.0\TP2.genruntimeconfig.cache
+C:\Users\SuperElectro\source\repos\TP2\TP2\obj\Debug\net8.0\ref\TP2.dll
