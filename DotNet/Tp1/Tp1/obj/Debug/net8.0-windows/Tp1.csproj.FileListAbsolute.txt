@@ -1,0 +1,16 @@
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\bin\Debug\net8.0-windows\Tp1.exe
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\bin\Debug\net8.0-windows\Tp1.deps.json
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\bin\Debug\net8.0-windows\Tp1.runtimeconfig.json
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\bin\Debug\net8.0-windows\Tp1.dll
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\bin\Debug\net8.0-windows\Tp1.pdb
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\Tp1.Form1.resources
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\Tp1.csproj.GenerateResource.cache
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\Tp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\Tp1.AssemblyInfoInputs.cache
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\Tp1.AssemblyInfo.cs
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\Tp1.csproj.CoreCompileInputs.cache
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\Tp1.dll
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\refint\Tp1.dll
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\Tp1.pdb
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\Tp1.genruntimeconfig.cache
+C:\Users\SuperElectro\source\repos\Tp1\Tp1\obj\Debug\net8.0-windows\ref\Tp1.dll
